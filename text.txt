@@ -1,1 +1,3 @@
 git_init
+git add .
+git commit
