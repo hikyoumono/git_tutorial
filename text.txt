@@ -1,3 +1,4 @@
 git_init
 git add .
 git commit
+git rm
