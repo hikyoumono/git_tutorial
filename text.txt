@@ -6,3 +6,4 @@ git status
 git diff , git diff --staged
 git checkout -- ファイル名 git checkout staged ファイル名
 git reset HEAD ファイル名
+git commit --amend
